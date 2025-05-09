@@ -1,0 +1,13 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "A simple app package with a random JavaScript file",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
